@@ -146,7 +146,9 @@
 <div align="center">
 
 <h3>🏅 Current Certifications</h3>
-<a href="#"><img src="https://img.shields.io/badge/CEH_v13-In_Progress-yellow?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH v13"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CEH_v13-yellow?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH v13"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/eJPTv2-red?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH v13"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cloud_Security-zSecurity-blue?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Security"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Web_Pentesting-zSecurity-green?style=for-the-badge&logo=websecurity&logoColor=white" alt="Web Pentesting"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Ethical_Hacking-Infosys-purple?style=for-the-badge&logo=infosys&logoColor=white" alt="Ethical Hacking"/></a>
