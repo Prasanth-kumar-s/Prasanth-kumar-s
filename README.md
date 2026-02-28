@@ -27,7 +27,7 @@
 
 <ul>
 <li>🎓 <strong>B.Tech in Computer Science & Engineering (Cybersecurity)</strong> </li>
-<li>🔐 Currently pursuing <strong>CEH v13, eJPT, ISC2(CC)</strong> certifications</li>
+<li>🔐 Certified in <strong>CEH v13, eJPT</strong> certifications</li>
 <li>🏆 <strong>40% improvement</strong> in network security through Public Wi-Fi Security System</li>
 <li>🌟 Top 25 position in National Level CTF Competition (500+ participants)</li>
 <li>💼 Freelance cybersecurity consultant with <strong>30% client security posture improvement</strong></li>
